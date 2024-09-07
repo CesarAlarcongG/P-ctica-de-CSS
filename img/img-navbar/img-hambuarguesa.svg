@@ -1,0 +1,8 @@
+<svg width="100" height="60" xmlns="http://www.w3.org/2000/svg">
+    <!-- Línea superior -->
+    <rect x="0" y="10" width="50" height="6" fill="white"/>
+    <!-- Línea central -->
+    <rect x="0" y="25" width="50" height="6" fill="white"/>
+    <!-- Línea inferior -->
+    <rect x="0" y="40" width="50" height="6" fill="white"/>
+</svg>
